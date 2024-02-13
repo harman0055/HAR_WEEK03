@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FRLab03</string>
+    <string name="spin_message">faire tourner le drapeau</string>
+    <string name="hellostring">Bonjour</string>
+</resources>
